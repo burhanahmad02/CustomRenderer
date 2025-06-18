@@ -1302,7 +1302,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614643}
   - {fileID: 8926484042661614644}
   m_OutputSlots: []
-  m_Label: 
+  m_Label: Flame
   m_Data: {fileID: 8926484042661614568}
   m_InputFlowSlot:
   - link:
@@ -4749,7 +4749,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614712}
   - {fileID: 8926484042661614713}
   m_OutputSlots: []
-  m_Label: 
+  m_Label: Smoke
   m_Data: {fileID: 8926484042661614683}
   m_InputFlowSlot:
   - link:
